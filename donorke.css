@@ -76,7 +76,6 @@ p {
   text-align: center;
   border: 0.5em solid white;
   border-radius: 1em;
-
 }
 
 
@@ -99,7 +98,6 @@ span {
 
 .menu {
     width: 10%;
-    padding: 0.5em;
     position: fixed;
     padding: 1em;
     margin: 0em 2em 0em 2em;
@@ -130,4 +128,37 @@ span {
   float:right;
   margin-right: 19em;
   margin-top: -5em;
+}
+
+@media (max-width: 900px) {
+  .foto {
+    width: 20%;
+    border: 0.5em solid white;
+    border-radius: 1em;
+    margin-left: 0%;
+  }
+  .donorkeafb2 {
+    display: none;
+  }
+  .donorkeafb {
+    width: 18%;
+    margin: -2em 0em 0em 79%;
+  }
+  .menu {
+      font-size:80%;
+      width: 14%;
+      line-height: 3em;
+      margin-left: 1.1em;
+      margin-top: -2em;
+  }
+  .banner {
+    width: 90%;
+    padding: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1em;
+    text-align: center;
+    border: 0.5em solid white;
+    border-radius: 1em;
+  }
 }
