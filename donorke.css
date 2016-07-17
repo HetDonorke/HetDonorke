@@ -130,6 +130,8 @@ span {
   margin-top: -5em;
 }
 
+
+
 @media (max-width: 900px) {
   .foto {
     width: 20%;
@@ -161,4 +163,24 @@ span {
     border: 0.5em solid white;
     border-radius: 1em;
   }
+}
+
+@media (max-width: 850px) {
+  .donorkeafb {
+    display: none;
+  }
+  .menu {
+    display: none;
+  }
+  .banner {
+    width: 80%;
+    padding: 0.5em;
+    font-size: 120%;
+  }
+  h1 {
+    font-size: 200%;
+    }
+  .slogan {
+    font-size: 110%;
+    }
 }
