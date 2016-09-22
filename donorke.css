@@ -42,10 +42,14 @@ p {
 
 td {
   height: 10%;
-  width: 13em;
-  vertical-align: middle;
+  width: 15em;
+  vertical-align: bottom;
   padding: 1em;
   font-family: verdana
+}
+
+.a{
+  width: 7em;
 }
 
 .google {
