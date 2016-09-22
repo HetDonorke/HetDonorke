@@ -44,12 +44,15 @@ td {
   height: 10%;
   width: 15em;
   vertical-align: bottom;
-  padding: 1em;
-  font-family: verdana
+  padding: 0.5em;
+  font-family: verdana;
+  font-size:100%;
 }
 
 .a{
-  width: 7em;
+  width: 5em;
+  font-family: verdana;
+  font-size:100%;
 }
 
 .google {
