@@ -49,6 +49,10 @@ td {
   font-size:80%;
 }
 
+.tabellink {
+  font-size: 80%;
+}
+
 .a{
   width: 5em;
   font-family: verdana;
@@ -143,10 +147,6 @@ span {
   float:right;
   margin-right: 19em;
   margin-top: -5em;
-}
-
-table a {
-  font-size: 90%;
 }
 
 
