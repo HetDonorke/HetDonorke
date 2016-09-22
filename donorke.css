@@ -46,17 +46,18 @@ td {
   vertical-align: middle;
   padding: 0.5em;
   font-family: verdana;
-  font-size:80%;
+  font-size:85%;
 }
 
 .tabellink {
-  font-size: 80%;
+  font-size: 85%;
 }
 
 .a{
   width: 5em;
   font-family: verdana;
   font-size:90%;
+  font-weight: bold;
 }
 
 .google {
