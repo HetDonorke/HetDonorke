@@ -47,14 +47,6 @@ td {
   padding: 1em;
   font-family: verdana
 }
-th {
-  height: 11%;
-  border: 2px solid black;
-  padding-top: 0.5em;
-  padding-bottom: 0.5em;
-  font-size: 150%;
-  font-family: verdana
-}
 
 .google {
   width: 60%;
